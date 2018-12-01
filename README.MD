@@ -1,4 +1,4 @@
-# tweakedAxon // (Updated Axon)
+# tweakedAxon // DEPRECATED
 I am **not responsible** for whatever you do with this updated source, as **I do not own nor have the permission to distribute Axon**. All rights go towards rakion99 or the original owner, Aero. By downloading this, you agree **you would not use this for undesired purposes**. Moreover, this source is **shitly updated and you would not have much use for it**. If you are unhappy with whatever I did, please contact me on Discord. If you are interested in being a collaborator, feel free to contact me too.
 
 ## Credits
